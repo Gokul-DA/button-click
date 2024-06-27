@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChangeText</string>
+    <string name="hello_world">hello_world</string>
+    <string name="click_me">click_me</string>
+</resources>
